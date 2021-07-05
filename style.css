@@ -52,7 +52,7 @@
 
 #second-section {
   display: flex;
-  background-image: url(/img/shapes/Frame\ 58.jpg);
+  background-image: url(./img/shapes/Frame\ 58.jpg);
   background-size: cover;
   height: 100vh;
 }
